@@ -23,4 +23,4 @@ The scripts are in Assets/Maze/Scripts .
 
 ## 🎮 How to Run
 
-- Game executable is in Game folder.
+- Game executable is in the Releases.
