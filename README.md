@@ -7,6 +7,8 @@
 
 This project is a simple 2D game developed as part of a university project for "AI in Computer Games" course.
 The challenge was to use some of the algorithms in the game. I have created it in Unity.
+
+Main scripts: https://github.com/TestyDungeon/2d-a-star-pathfinding/tree/main/Assets/Maze/Scripts
 <div align="center">
 
 ## Video
